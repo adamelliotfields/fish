@@ -4,7 +4,7 @@
   <h1><code>fish</code></h1>
 </div>
 
-My [Fish](https://github.com/fish-shell/fish-shell) shell functions, packaged as a [Fisher](https://github.com/jorgebucaran/fisher) plugin. Originally part of my [dotfiles](https://github.com/adamelliotfields/dotfiles).
+My [Fish](/fish-shell/fish-shell) shell functions, packaged as a [Fisher](/jorgebucaran/fisher) plugin. Originally part of my [dotfiles](/adamelliotfields/dotfiles).
 
 ## Installation
 
@@ -18,22 +18,22 @@ fisher update
 
 ## Functions
 
-- [`chat`](./functions/chat.fish): OpenAI chat CLI
-- [`dracula`](./functions/dracula.fish): Toggle Dracula Pro theme in Hyper terminal
-- [`fio`](./functions/fio.fish): File.io CLI
-- [`format`](./functions/format.fish): Display a number in various formats
-- [`gituser`](./functions/gituser.fish): Update Git config with email address and corresponding GPG key
-- [`google`](./functions/google.fish): Open different Google pages from the terminal
-- [`mkcd`](./functions/mkcd.fish): Create a directory and change to it
-- [`nvm`](./functions/nvm.fish): Node Version Manager
-- [`octal`](./functions/octal.fish): Show octal permissions for a file
-- [`postgresql`](./functions/postgresql.fish): Run a Postgres container
-- [`pypi`](./functions/pypi.fish): Search PyPI for package info
-- [`redis`](./functions/redis.fish): Run a Redis container with RedisInsight
-- [`spinner`](./functions/spinner.fish): Ora-like loading spinner
-- [`ubuntu`](./functions/ubuntu.fish): Run an Ubuntu container
-- [`up`](./functions/up.fish): Move up $n$ directories
+- [`chat`](/adamelliotfields/fish/functions/chat.fish): OpenAI chat CLI
+- [`dracula`](/adamelliotfields/fish/functions/dracula.fish): Toggle Dracula Pro theme in Hyper terminal
+- [`fio`](/adamelliotfields/fish/functions/fio.fish): File.io CLI
+- [`format`](/adamelliotfields/fish/functions/format.fish): Display a number in various formats
+- [`gituser`](/adamelliotfields/fish/functions/gituser.fish): Update Git config with email address and corresponding GPG key
+- [`google`](/adamelliotfields/fish/functions/google.fish): Open different Google pages from the terminal
+- [`mkcd`](/adamelliotfields/fish/functions/mkcd.fish): Create a directory and change to it
+- [`nvm`](/adamelliotfields/fish/functions/nvm.fish): Node Version Manager
+- [`octal`](/adamelliotfields/fish/functions/octal.fish): Show octal permissions for a file
+- [`postgresql`](/adamelliotfields/fish/functions/postgresql.fish): Run a Postgres container
+- [`pypi`](/adamelliotfields/fish/functions/pypi.fish): Search PyPI for package info
+- [`redis`](/adamelliotfields/fish/functions/redis.fish): Run a Redis container with RedisInsight
+- [`spinner`](/adamelliotfields/fish/functions/spinner.fish): Ora-like loading spinner
+- [`ubuntu`](/adamelliotfields/fish/functions/ubuntu.fish): Run an Ubuntu container
+- [`up`](/adamelliotfields/fish/functions/up.fish): Move up $n$ directories
 
 ## Inspiration
 
-- [alexanderepstein/bash-snippets](https://github.com/alexanderepstein/Bash-Snippets)
+- [alexanderepstein/bash-snippets](/alexanderepstein/Bash-Snippets)
