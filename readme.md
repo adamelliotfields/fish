@@ -4,7 +4,7 @@
   <h1><code>fish</code></h1>
 </div>
 
-My [Fish](/fish-shell/fish-shell) shell functions, packaged as a [Fisher](/jorgebucaran/fisher) plugin. Originally part of my [dotfiles](/adamelliotfields/dotfiles).
+My [Fish](https://github.com/fish-shell/fish-shell) shell functions, packaged as a [Fisher](https://github.com/jorgebucaran/fisher) plugin. Originally part of my [dotfiles](https://github.com/adamelliotfields/dotfiles).
 
 ## Installation
 
@@ -18,21 +18,21 @@ fisher update
 
 ## Functions
 
-- [`chat`](/adamelliotfields/fish/blob/main/functions/chat.fish): OpenAI chat CLI
-- [`dracula`](/adamelliotfields/fish/blob/main/functions/dracula.fish): Toggle Dracula Pro theme in Hyper terminal
-- [`fio`](/adamelliotfields/fish/blob/main/functions/fio.fish): File.io CLI
-- [`format`](/adamelliotfields/fish/blob/main/functions/format.fish): Display a number in various formats
-- [`gituser`](/adamelliotfields/fish/blob/main/functions/gituser.fish): Update Git config with email address and corresponding GPG key
-- [`google`](/adamelliotfields/fish/blob/main/functions/google.fish): Open different Google pages from the terminal
-- [`mkcd`](/adamelliotfields/fish/blob/main/functions/mkcd.fish): Create a directory and change to it
-- [`nvm`](/adamelliotfields/fish/blob/main/functions/nvm.fish): Node Version Manager
-- [`octal`](/adamelliotfields/fish/blob/main/functions/octal.fish): Show octal permissions for a file
-- [`postgresql`](/adamelliotfields/fish/blob/main/functions/postgresql.fish): Run a Postgres container
-- [`pypi`](/adamelliotfields/fish/blob/main/functions/pypi.fish): Search PyPI for package info
-- [`redis`](/adamelliotfields/fish/blob/main/functions/redis.fish): Run a Redis container with RedisInsight
-- [`spinner`](/adamelliotfields/fish/blob/main/functions/spinner.fish): Ora-like loading spinner
-- [`ubuntu`](/adamelliotfields/fish/blob/main/functions/ubuntu.fish): Run an Ubuntu container
-- [`up`](/adamelliotfields/fish/blob/main/functions/up.fish): Move up $n$ directories
+- [`chat`](/blob/main/functions/chat.fish): OpenAI chat CLI
+- [`dracula`](/blob/main/functions/dracula.fish): Toggle Dracula Pro theme in Hyper terminal
+- [`fio`](/blob/main/functions/fio.fish): File.io CLI
+- [`format`](/blob/main/functions/format.fish): Display a number in various formats
+- [`gituser`](/blob/main/functions/gituser.fish): Update Git config with email address and corresponding GPG key
+- [`google`](/blob/main/functions/google.fish): Open different Google pages from the terminal
+- [`mkcd`](/blob/main/functions/mkcd.fish): Create a directory and change to it
+- [`nvm`](/blob/main/functions/nvm.fish): Node Version Manager
+- [`octal`](/blob/main/functions/octal.fish): Show octal permissions for a file
+- [`postgresql`](/blob/main/functions/postgresql.fish): Run a Postgres container
+- [`pypi`](/blob/main/functions/pypi.fish): Search PyPI for package info
+- [`redis`](/blob/main/functions/redis.fish): Run a Redis container with RedisInsight
+- [`spinner`](/blob/main/functions/spinner.fish): Ora-like loading spinner
+- [`ubuntu`](/blob/main/functions/ubuntu.fish): Run an Ubuntu container
+- [`up`](/blob/main/functions/up.fish): Move up $n$ directories
 
 ## Inspiration
 
