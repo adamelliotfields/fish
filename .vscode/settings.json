@@ -1,0 +1,4 @@
+{
+  // don't highlight quoted unicode characters
+  "editor.unicodeHighlight.includeStrings": false
+}
